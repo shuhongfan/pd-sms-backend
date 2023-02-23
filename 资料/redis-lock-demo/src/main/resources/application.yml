@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  redis:
+    host: 68.79.63.42
+    port: 26379
+    password: itheima123
